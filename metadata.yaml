@@ -1,0 +1,29 @@
+_repo: Sous-les-marronniers--13-Contes-et-r-cits_11905
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Muller, Eugène
+    alias: Muller, Eugene
+    birthdate: 1826
+    deathdate: 1913
+    gutenberg_agent_id: '4127'
+    url: http://www.gutenberg.org/2009/agents/4127
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11905'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: La Fête du maître d'école -- La Bête au bon Dieu -- La Pierre qui
+  tourne -- Le Gentilhomme verrier -- Une Mouche noire -- Courage et témérité.
+title: 'Sous les marronniers: Contes et récits'
+url: http://www.gutenberg.org/ebooks/11905
